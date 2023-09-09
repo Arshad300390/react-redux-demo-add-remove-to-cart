@@ -77,6 +77,9 @@
     color: #fff;
     text-align: center;
 }
+#cart-count{
+margin-top: 40px;
+}
 /*  */
 @keyframes App-logo-spin {
   from {
